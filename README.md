@@ -1,4 +1,6 @@
 # Chatbot---Understands-your-mood
-A chat bot that can order books, locate stores, provide movie and restaurant suggestions based on your mood
+Performed as a part of my college's hackathon, this chatbot was made to order books, locate stores, provide movie and restaurant suggestions based on your mood.
 
-All files have not been uploaded.
+Its pretty effective and I had a great time working on it
+
+
